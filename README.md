@@ -1,10 +1,24 @@
-# whoami
-About me page
+ TB | Cybersecurity Professional
+🔐 About Me
+Seasoned cybersecurity professional with extensive experience in network security, penetration testing, and automation. I'm passionate about creating secure systems and sharing knowledge with the cybersecurity community.
+🛠️ Skills & Expertise
 
-# Hi there, I'm TB 👋
+Security Testing: Penetration testing, vulnerability assessment, red teaming
+Programming: Python, Bash scripting, Network automation
+Networking: Network protocols, packet analysis, traffic monitoring
+Tools: Scapy, Wireshark, Metasploit, Burp Suite
+Domains: Network security, IoT security, Infrastructure hardening
 
+🚀 Projects & Contributions
 
-## Support My Work
-If you like what I do and want to support my efforts, consider making a donation. Every contribution helps me keep going!
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=BHNSLNX54P2XC)
+Vulner - Automation tool utilizing industry-standard security tools
+StreamAlc - Custom cybersecurity streaming solution
+dashboard-lab-machines - Dashboard for monitoring and managing lab machines
 
+📚 Learning & Research
+Currently focused on:
+
+Cloud security architecture
+Secure DevOps practices
+Advanced threat hunting techniques
+Machine learning applications in security

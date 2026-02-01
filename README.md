@@ -1,6 +1,4 @@
- TB | Cybersecurity Professional
-🔐 About Me
-Seasoned cybersecurity professional with extensive experience in network security, penetration testing, and automation. I'm passionate about creating secure systems and sharing knowledge with the cybersecurity community.
+
 🛠️ Skills & Expertise
 
 Security Testing: Penetration testing, vulnerability assessment, red teaming

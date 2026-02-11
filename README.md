@@ -19,11 +19,17 @@ DevOps & Support Engineer based in Israel. I build tools that make complex syste
 
 ## Projects
 
+**Open Source**
 | Project | Description |
 |---------|-------------|
 | [screenshot-skill](https://github.com/TCyberChef/screenshot-skill) | Screenshot skill for Claude Code - capture, analyze, and annotate on macOS |
-| [claude-conv](https://github.com/TCyberChef/claude-conv) | macOS SwiftUI app for browsing Claude Code conversation transcripts |
-| [claude-task-viewer](https://github.com/TCyberChef/claude-task-viewer) | Web viewer for Claude Code task transcripts |
+| [mcp-image-generator](https://github.com/TCyberChef/mcp-image-generator) | MCP server for generating images with Hugging Face models |
+| [israel-housing-finder](https://github.com/TCyberChef/israel-housing-finder) | Web app for finding apartments in Israel with interactive filters |
+
+**Private**
+- **claude-conv** - macOS SwiftUI app for browsing Claude Code conversation transcripts
+- **claude-task-viewer** - Web viewer for Claude Code task transcripts
+- **StreamAlchemy** - Professional video streaming platform with RTSP encoding and monitoring
 
 ## Approach
 
